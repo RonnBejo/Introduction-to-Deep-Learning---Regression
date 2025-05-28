@@ -25,8 +25,6 @@ The assignment explores the implementation of a **regression task using neural n
 
 This project uses Python and Jupyter Notebook. To run it, install the following packages:
 
-```bash
-
 pip install numpy matplotlib torch notebook
 
 Or create a new conda environment:
